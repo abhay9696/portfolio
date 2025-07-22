@@ -28,7 +28,7 @@ import jpm from "./company/jpm.png";
 import diabetes from "./diabetes.png";
 import AlgorithmAnalyzer from "./AlgorithmAnalyzer.jpeg";
 import Emusic from "./Emusic.jpeg";
-import Cab24 from "./Cab-24.jpg";
+import Cab24 from "./Cab24.jpg";
 import weather  from "./weather.jpg";
 import Ecommerce from "./Ecommerce.jpg";
 
